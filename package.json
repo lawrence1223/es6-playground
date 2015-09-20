@@ -1,0 +1,25 @@
+{
+  "name": "es6-playground",
+  "version": "0.0.1",
+  "description": "ES6 PlayGround",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lawrence1223/es6-playground.git"
+  },
+  "keywords": [
+    "ES6"
+  ],
+  "author": "Zhiming Luo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lawrence1223/es6-playground/issues"
+  },
+  "homepage": "https://github.com/lawrence1223/es6-playground#readme",
+  "devDependencies": {
+    "eslint": "^1.5.0"
+  }
+}
